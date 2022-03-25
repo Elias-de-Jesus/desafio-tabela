@@ -1,0 +1,15 @@
+.produto, .tamanho, .valor {
+
+    background-color: #bb86fc;
+    color: aliceblue;
+}
+
+.itens {
+    background-color: #424250;
+    color: aliceblue;
+}
+
+.cabeçalho {
+    background-color: #00c4b4;
+    color: aliceblue;
+}
